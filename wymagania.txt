@@ -1,0 +1,13 @@
+Baza Danych zawiera ponad 10 tabel wraz z wymagan¹ liczb¹ rekordów sk³adowych,
+ka¿da z nich posiada przynajmniej jedn¹ relacjê, a ka¿dy atrybut posiada 
+przynajmniej jeden z wiêzów integralnoœci. Projekt przewiduje 3 przypadki, 
+kiedy proponowany schemat bêdzie musia³ w przysz³oœci zostaæ zmieniony.
+Projekt zawiera relacjê zwrotn¹ szef-pracownik. Do schematu przygotowane
+zosta³y zapytania do bazy danych w folderze „Zapytania do Bazy”,
+w którym znajduj¹ siê zapytania wybieraj¹ce, selekcje oraz 
+³¹cz¹ce (2 tabele, 3 tabele i wiêcej). W projekcie brakuje skryptów 
+modyfikuj¹cych schemat. Projekt relacyjnej bazy danych sklepu komputerowego
+wykazuje siê funkcjonalnoœci¹ oraz elastycznoœci¹. Wszystkie wymagania minimalne
+oraz wiêkszoœæ dodatkowych wymagañ zosta³y spe³nione. 
+Bior¹c pod uwagê umiejêtnoœci nabyte w trakcie trwania semestru,
+uwa¿am, ¿e projekt zas³uguje na ocenê 4.
