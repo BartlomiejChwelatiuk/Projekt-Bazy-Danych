@@ -1,0 +1,1 @@
+SELECT `Nazwa`,`Opis` FROM `sklep test`.`produkt`;

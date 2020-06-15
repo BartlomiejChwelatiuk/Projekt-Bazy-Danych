@@ -1,0 +1,1 @@
+SELECT (`produkt`.`Cena_netto` * `produkt`.`Sztuk_w_magazynie`) AS `Cena_netto_calosci`,`produkt`.`Nazwa` FROM `sklep test`.`produkt` GROUP BY `produkt`.`Nazwa` ;
